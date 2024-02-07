@@ -39,13 +39,16 @@
 //     sum2+=p;
 // }
 // console.log(sum2);
-// let sum3=0,q=20;
-// while(q>=11){
-//     console.log(q);
-//     sum3+=q;
-//     q--
-// }
-// console.log(sum3);
+
+//---------------------------------------------------------
+
+let sum3=0,q=20;
+while(q>=11){
+    console.log(q);
+    sum3+=q;
+    q--
+}
+console.log(sum3);
 
 
 
